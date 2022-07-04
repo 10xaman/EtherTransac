@@ -2,6 +2,12 @@
 
 EtherTransac is a Decentralized App on the Ethereum blockchain, allowing users for transaction of their Eth. 
 
+<p align = "center">
+  <img src="https://github.com/10xaman/EtherTransac/blob/main/Screenshot%202022-07-05%20015643.jpg" alt="EthTransac">
+</p>
+
+Check here in action (https://jazzy-cucurucho-11d760.netlify.app/)
+
 
 ## Philosophy
 
