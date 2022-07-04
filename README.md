@@ -1,6 +1,6 @@
 ## EtherTransac
 
-EtherTransac is a Decentralized App on the Ethereum blockchain, allowing users for transaction of their Eth. - <i>Stephen, #MEWForce</i>
+EtherTransac is a Decentralized App on the Ethereum blockchain, allowing users for transaction of their Eth. 
 
 
 ## Philosophy
